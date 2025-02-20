@@ -1,0 +1,30 @@
+@font-face {
+  font-family: fleurfont;
+  src: url(./fonts/FleurDeLeah-Regular.ttf);
+}
+
+// declare a class which applies it
+.font-fleur {
+  font-family: 'fleurfont';
+}
+
+@font-face {
+  font-family: italianafont;
+  src: url(./fonts/Italiana/Italiana-Regular.ttf);
+}
+
+// declare a class which applies it
+.font-italiana {
+  font-family: 'italianafont';
+}
+
+@font-face {
+  font-family: catanafont;
+  src: url(./fonts/Cantata_One/CantataOne-Regular.ttf);
+}
+
+// declare a class which applies it
+.font-catana {
+  font-family: 'catanafont';
+}
+
